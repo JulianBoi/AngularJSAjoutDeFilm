@@ -1,0 +1,5 @@
+<input #addMovie type="text" placeholder="Entrez un titre"><button (click)="addMovies(addMovie.value)">Ajoutez</button>
+<p>Vos film favoris sont :</p>
+<li *ngFor="#movie of moviesList">
+    - {{movie}}
+</li>
