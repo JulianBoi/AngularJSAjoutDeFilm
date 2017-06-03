@@ -1,4 +1,4 @@
-## Angular Project
+## Angular2 Project
 
 A simple project for Add Favorite Film
 
@@ -12,3 +12,5 @@ A simple project for Add Favorite Film
 ## Preview
 
 ![Aperçu de l'application](https://image.noelshack.com/fichiers/2017/22/1496496865-sans-titre.png)
+
+###### Application with AngularJS 2
